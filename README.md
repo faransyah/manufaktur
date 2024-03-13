@@ -1,3 +1,23 @@
+Berikut beberapa screenshoot website dari tampilan admin dan pembeli :
+
+Beranda
+![alt text](https://github.com/risangabdurrahmang/website_pemesanan_furnitur/blob/main/public/img/readme/beranda.png?raw=true)
+
+Katalog
+![alt text](https://github.com/risangabdurrahmang/website_pemesanan_furnitur/blob/main/public/img/readme/katalog.png?raw=true)
+
+Detail Katalog
+![alt text](https://github.com/risangabdurrahmang/website_pemesanan_furnitur/blob/main/public/img/readme/detail.png?raw=true)
+
+Form Pesan Katalog
+![alt text](https://github.com/risangabdurrahmang/website_pemesanan_furnitur/blob/main/public/img/readme/form%20pesan.png?raw=true)
+
+Form Pesan Full Custom
+![alt text](https://github.com/risangabdurrahmang/website_pemesanan_furnitur/blob/main/public/img/readme/form%20pesan%20fullcustom.png?raw=true)
+
+Dashboard Admin
+![alt text](https://github.com/risangabdurrahmang/website_pemesanan_furnitur/blob/main/public/img/readme/dashboard%20admin.png?raw=true)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
