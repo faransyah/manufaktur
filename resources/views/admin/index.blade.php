@@ -74,16 +74,16 @@
                         <div class="flex items-center">
                             <div class="icon w-14 p-3.5 bg-blue-500 text-white rounded-full mr-3">
                                 <img src="https://img.icons8.com/ios-filled/100/ffffff/windows10-personalization.png"
-                                    alt="icon pesanan full custom" />
+                                    alt="icon pesanan Jasa Service" />
                             </div>
                             <div class="flex flex-col justify-center">
                                 <div class="text-lg text-black dark:text-white">{{ $fcustom }}</div>
-                                <div class="text-sm text-gray-900 dark:text-gray-200">Full Kustom</div>
+                                <div class="text-sm text-gray-900 dark:text-gray-200">Jasa Service</div>
                             </div>
                         </div>
                     </div>
                 </div>
-
+    
                 <div class="w-full lg:w-1/4">
                     <div
                         class="widget w-full p-4 rounded-lg bg-gray-100 shadow-md dark:bg-gray-700 border-l-4 border-zinc-500">

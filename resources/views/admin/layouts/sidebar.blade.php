@@ -74,7 +74,7 @@
                     class="flex items-center p-2 text-base font-normal text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700">
                     <img src="https://img.icons8.com/ios-filled/50/c5c5c5/windows10-personalization.png" class="w-6 h-6"
                         alt="icon pesanan full custom" />
-                    <span class="ml-3">Pesanan Full Custom</span>
+                    <span class="ml-3">Jasa Service</span>
                 </x-side-link>
             </li>
             <li>

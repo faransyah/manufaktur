@@ -15,7 +15,7 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'Teras Kayu Purwokerto'),
+    'name' => env('APP_NAME', 'PT. Emap Technology'),
 
     /*
     |--------------------------------------------------------------------------

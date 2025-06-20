@@ -56,7 +56,7 @@
                                         <td class="px-4 py-3">{{ $custom->description }}</td>
                                         <td class="px-4 py-3 w-52 p-4">
                                             <img src="{{ asset('storage/' . $custom->image_custom) }}"
-                                                alt="gambar full custom">
+                                                alt="gambar service">
                                         </td>
                                         <td class="flex flex-col items-center px-4 py-3 space-x-3">
                                             <a href="/admin/fullcustom/chat/{{ $custom->id }}"

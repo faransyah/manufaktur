@@ -2,8 +2,7 @@
     class="bg-light px-2 sm:px-4 py-2.5 dark:bg-dark fixed w-full z-20 top-0 left-0 border-b border-gray-200 dark:border-gray-600">
     <div class="container flex flex-wrap items-center justify-between mx-auto">
         <a href="/" class="flex items-center">
-            <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">Teras
-                Kayu<br>Purwokerto</span>
+            <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">PT. Emap Technology</span>
         </a>
         <div class="flex items-center lg:order-2">
             @if (Route::has('login'))
@@ -120,7 +119,7 @@
                                 <li>
                                     <x-nav-link :href="route('fullCustoms')" :active="request()->routeIs('fullCustoms')"
                                         class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">
-                                        Pesanan Full Custom
+                                        Jasa Service
                                     </x-nav-link>
                                 </li>
                             </ul>
@@ -217,8 +216,7 @@
                 <li>
                     <x-nav-link :href="route('custom_form')" :active="request()->routeIs('custom_form')"
                         class="block py-2 pl-3 pr-4 text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-yellow-700 md:p-0 md:dark:hover:text-white dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">
-                        Full
-                        Kustom</x-nav-link>
+                        Jasa Service</x-nav-link>
                 </li>
             </ul>
         </div>

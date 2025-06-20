@@ -24,7 +24,7 @@
             <div id="messages"
                 class="flex flex-col space-y-4 p-3 overflow-y-auto scrollbar-thumb-blue scrollbar-thumb-rounded scrollbar-track-blue-lighter scrollbar-w-2 scrolling-touch">
                 {{-- <div>
-                    <img src="{{ asset('storage/' . $fullCustom->image_custom) }}" alt="gambar full custom">
+                    <img src="{{ asset('storage/' . $fullCustom->image_custom) }}" alt="gambar service">
                 </div> --}}
                 @foreach ($messages as $mess)
                     <div class="chat-message">

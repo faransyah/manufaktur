@@ -3,9 +3,9 @@
     <section class="bg-light dark:bg-dark pt-10">
         <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
             <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
-                <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">Teras Kayu Purwokerto
+                <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">PT. Emap Technologych Industri
                 </h2>
-                <p class="mb-4 text-justify">Teras Kayu Purwokerto merupakan salah satu produsen homedecor dan furniture di
+                <p class="mb-4 text-justify">PT. Emap Technologych Industri merupakan salah satu produsen homedecor dan furniture di
                     Kota
                     purwokerto (banyumas) dengan bahan baku kayu pinus jati belanda. yang memanfaatkan limbah eks pallet
                     (peti kemas) kemudian kami oalah kembali menjadi furniture craft dan homedecor by request/pre order.

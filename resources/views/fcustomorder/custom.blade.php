@@ -3,7 +3,7 @@
     <section class="bg-light dark:bg-dark pt-24">
         <div class="py-8 lg:py-16 px-4 mx-auto max-w-screen-md">
             <div class="form_content bg-gray-50 border border-gray-600 dark:bg-gray-900">
-                <h4 class="font-bold text-center text-4xl text-gray-900 dark:text-white mb-10">Form Kustom</h4>
+                <h4 class="font-bold text-center text-4xl text-gray-900 dark:text-white mb-10">Service</h4>
                 <form action="/fullcustom/add" method="post" enctype="multipart/form-data">
                     @csrf
                     <div class="row mb-5">

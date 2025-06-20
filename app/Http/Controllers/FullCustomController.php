@@ -51,7 +51,7 @@ class FullCustomController extends Controller
             $fcustom->save($validateData);
         }
 
-        Alert::success('Sukses', 'Data Kustom Berhasil Disimpan');
+        Alert::success('Sukses', 'Data Service Berhasil Disimpan');
         return redirect('fullcustom-orders');
     }
 

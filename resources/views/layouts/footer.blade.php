@@ -1,7 +1,7 @@
 <footer class="bg-four">
     <div class="grid grid-cols-2 gap-8 px-6 py-8 md:grid-cols-4">
         <div class="px-4">
-            <h2 class="mb-6 text-xl font-bold text-gray-100 uppercase">Teras Kayu Purwokerto</h2>
+            <h2 class="mb-6 text-xl font-bold text-gray-100 uppercase">PT.Emap Technology</h2>
             <ul class="text-gray-300">
                 <li class="mb-2">
                     <h3 href="#">Jl. Moh Besar Kutasari RT01/RW01 Gang Singer</h3>
@@ -27,7 +27,7 @@
                     <a href="/catalog" class="hover:underline">Katalog</a>
                 </li>
                 <li class="mb-4">
-                    <a href="/fullcustom-form" class="hover:underline">Full Kustom</a>
+                    <a href="/fullcustom-form" class="hover:underline">Jasa Service</a>
                 </li>
             </ul>
         </div>
@@ -35,7 +35,7 @@
             <h2 class="mb-6 text-sm font-semibold text-gray-100 uppercase">Layanan</h2>
             <ul class="text-gray-300">
                 <li class="mb-4">
-                    <a href="#" class="hover:underline">Kustom</a>
+                    <a href="#" class="hover:underline">Service</a>
                 </li>
                 <li class="mb-4">
                     <a href="#" class="hover:underline">Pengiriman</a>
@@ -67,8 +67,7 @@
     </div>
     <hr>
     <div class="px-4 py-6 bg-four text-center">
-        <span class="text-sm text-gray-300 mx-auto">© Copyright <a href="#" class="font-bold">Teras
-                Kayu Purwokerto 2023</a>
+        <span class="text-sm text-gray-300 mx-auto">© Copyright <a href="#" class="font-bold">PT.Emap Technology</a>
         </span>
     </div>
 </footer>

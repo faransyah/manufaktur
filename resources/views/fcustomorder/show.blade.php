@@ -15,7 +15,7 @@
                     </div>
                     <div class="flex flex-col leading-tight">
                         <div class="text-2xl mt-1 flex items-center">
-                            <span class="text-gray-700 dark:text-gray-100 mr-3">Teras Kayu Purwokerto</span>
+                            <span class="text-gray-700 dark:text-gray-100 mr-3">PT. Emap Technology</span>
                         </div>
                         <span class="text-lg text-gray-600 dark:text-gray-200">Admin</span>
                     </div>

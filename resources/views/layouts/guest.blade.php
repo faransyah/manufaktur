@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>{{ config('app.name', 'Teras Kayu Purwokerto') }}</title>
+    <title>{{ config('app.name', 'PT.Emap Technology') }}</title>
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.bunny.net">
@@ -44,7 +44,7 @@
     </div>
     <div class="flex flex-col sm:justify-center items-center pt-6 sm:pt-0 mt-20">
         <a href="/" class="font-bold text-3xl text-gray-800 dark:text-gray-100">
-            Teras Kayu Purwokerto
+            PT.Emap Technology
         </a>
         <div class="w-full sm:max-w-md mt-6 px-6 py-4 dark:bg-gray-800 shadow-md overflow-hidden sm:rounded-lg">
             {{ $slot }}
