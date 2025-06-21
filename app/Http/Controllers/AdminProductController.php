@@ -58,8 +58,12 @@ class AdminProductController extends Controller
         ]);
 
         if ($request->file('product_image')) {
-            $validateData['product_image'] = $request->file('product_image')->store('gambar-produk'); //penyimpanan gambar
+            $file = $request->file('product_image');
+            $filename = $file->getClientOriginalName();
+            $file->storeAs('public/gambar-produk', $filename);
+            $validateData['product_image'] = 'gambar-produk/' . $filename;
         }
+
 
         Product::create($validateData);
 
@@ -119,7 +123,10 @@ class AdminProductController extends Controller
             if ($request->oldImage) {
                 Storage::delete($request->oldImage);
             }
-            $validateData['product_image'] = $request->file('product_image')->store('gambar-produk'); //penyimpanan gambar
+            $file = $request->file('product_image');
+            $filename = $file->getClientOriginalName();
+            $file->storeAs('public/gambar-produk', $filename);
+            $validateData['product_image'] = 'gambar-produk/' . $filename;
         }
 
         Product::where('id', $product->id)

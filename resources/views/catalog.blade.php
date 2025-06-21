@@ -31,8 +31,8 @@
                             <div
                                 class="w-full mx-auto max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
                                 <a href="product/detail/{{ $product->slug }}">
-                                    <img class="p-4 rounded-t-lg" src="{{ asset('storage/' . $product->product_image) }}"
-                                        alt="{{ $product->name }}" />
+                                   <img class="p-4 rounded-t-lg" src="{{ asset('storage/' . $product->product_image) }}" alt="{{ $product->name }}" />
+
                                 </a>
                                 <div class="px-5 pb-5">
                                     <div class="flex items-center justify-between">

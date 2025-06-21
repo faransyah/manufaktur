@@ -5,17 +5,13 @@
             <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
                 <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">PT. Emap Technologych Industri
                 </h2>
-                <p class="mb-4 text-justify">PT. Emap Technologych Industri merupakan salah satu produsen homedecor dan furniture di
-                    Kota
-                    purwokerto (banyumas) dengan bahan baku kayu pinus jati belanda. yang memanfaatkan limbah eks pallet
-                    (peti kemas) kemudian kami oalah kembali menjadi furniture craft dan homedecor by request/pre order.
-                    jadi kami membuat berdasarkan pesanan atau customize, menyesuaikan kebutuhan dan dengan model terkini.
+                <p class="mb-4 text-justify">PT. Emap Technological Industri adalah brand furnitur modern yang mengubah limbah kayu pallet menjadi karya custom furniture dan homedecor kekinian. Kami mengandalkan kayu pinus jati belanda dari pallet bekas, lalu mengolahnya menjadi produk bernilai tinggi—fungsional, estetik, dan ramah lingkungan. Semua produk kami dibuat berdasarkan pesanan (made by request), menyesuaikan kebutuhan, ukuran, dan gaya interior pelanggan.
+
                 </p>
-                <p class="text-justify">Produk homedecor seperti jam dinding kayu, rak ambalan, pajangan kayu, vas bunga, pot
-                    kayu, frame 2
-                    dimensi dan 3 dimensi, frame pop up customize. untuk furniture yg kami produksi meja kursi, pintu,
-                    kabinet, backdroop, kitchen set dan lainnya sesuai kebutuhan konsumen ( customize). tentunya dengan
-                    hasil rapi, kualitas bagus dan tahan lama.</p>
+                <p class="text-justify">✨ Produk homedecor: jam dinding kayu, rak ambalan, pajangan, vas bunga, pot kayu, hingga frame 2D & 3D custom.<br>
+                🛋️ Produk furniture: meja, kursi, pintu, backdrop, kabinet, kitchen set, dan lainnya—semuanya bisa disesuaikan.
+                Kami percaya bahwa setiap rumah punya cerita, dan furnitur adalah bagian dari ceritanya. Karena itu, kami hadir untuk membantu mewujudkan desain impian lewat produk berkualitas, presisi tinggi, dan tahan lama.
+                </p>
             </div>
             <div class="grid grid-cols-2 gap-4 mt-8">
                 <img class="w-full rounded-lg"
